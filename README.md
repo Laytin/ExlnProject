@@ -13,6 +13,8 @@ In-game store
 Custom nbt to json serialization
 Packet system prevent "fake packets". Client send only requests, with no info, requests contains only an operation code
 
-Mode screens:
 Cases with animation
 ![2024-03-2901-57-26-ezgif com-apng-to-gif-converter](https://github.com/Laytin/ExlnProject/assets/70861524/a13d06fa-cf56-40e6-be07-142f5c606a52)
+
+KitList:
+![image](https://github.com/Laytin/ExlnProject/assets/70861524/4d9ae476-711e-404c-8531-ed25243a28bc)
