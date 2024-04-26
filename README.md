@@ -17,7 +17,9 @@ Cases with animation
 ![2024-03-2901-57-26-ezgif com-apng-to-gif-converter](https://github.com/Laytin/ExlnProject/assets/70861524/a13d06fa-cf56-40e6-be07-142f5c606a52)
 
 KitList:
-![image](https://github.com/Laytin/ExlnProject/assets/70861524/4d9ae476-711e-404c-8531-ed25243a28bc)
+![image](https://github.com/Laytin/ExlnProject/assets/70861524/b4bda941-77c1-4a08-95b2-3ab2f709df2e)
+
 
 WarpList:
 ![image](https://github.com/Laytin/ExlnProject/assets/70861524/1392bf2a-0420-472f-bfc8-08c97f26f666)
+![image](https://github.com/Laytin/ExlnProject/assets/70861524/77403d22-8563-4ee2-b64b-ed2aae1cb14f)
