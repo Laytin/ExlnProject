@@ -4,17 +4,20 @@ The project consists of a modification part that adds a graphical component, as 
 
 The project's capabilities are extensive:
 
-Opening cases with animations
-Receiving and previewing kits
-A logging system that allows you to track a player’s multi-accounts (ONLY WITH HIS PERMISSION) to prevent bypassing bans
-Notification system in Discord, as well as executing console commands using a bot or outputting messages to the game chat and vice versa (using ConsoleLoggerHandler)
-Warp system, public/private, icon, (descr in dev), checked by administrator
-In-game store
-Custom nbt to json serialization
-Packet system prevent "fake packets". Client send only requests, with no info, requests contains only an operation code
+-Opening cases with animations.
+-Receiving and previewing kits.
+-A logging system that allows you to track a player’s multi-accounts (ONLY WITH HIS PERMISSION) to prevent bypassing bans.
+-Notification system in Discord, as well as executing console commands using a bot or outputting messages to the game chat and vice versa (using ConsoleLoggerHandler).
+-Warp system, public/private, icon, (descr in dev), checked by administrator.
+-In-game store.
+-Custom nbt to json serialization.
+-Packet system prevent "fake packets". Client send only requests, with no info, requests contains only an operation code.
 
 Cases with animation
 ![2024-03-2901-57-26-ezgif com-apng-to-gif-converter](https://github.com/Laytin/ExlnProject/assets/70861524/a13d06fa-cf56-40e6-be07-142f5c606a52)
 
 KitList:
 ![image](https://github.com/Laytin/ExlnProject/assets/70861524/4d9ae476-711e-404c-8531-ed25243a28bc)
+
+WarpList:
+![image](https://github.com/Laytin/ExlnProject/assets/70861524/1392bf2a-0420-472f-bfc8-08c97f26f666)
