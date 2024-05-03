@@ -23,3 +23,7 @@ KitList:
 WarpList:
 ![image](https://github.com/Laytin/ExlnProject/assets/70861524/1392bf2a-0420-472f-bfc8-08c97f26f666)
 ![image](https://github.com/Laytin/ExlnProject/assets/70861524/77403d22-8563-4ee2-b64b-ed2aae1cb14f)
+
+Shop:
+![image](https://github.com/Laytin/ExlnProject/assets/70861524/526efb75-d834-456b-93bd-1c0837330fb3)
+![image](https://github.com/Laytin/ExlnProject/assets/70861524/2b4d6fcc-e360-42d0-969d-a96a78f85410)
